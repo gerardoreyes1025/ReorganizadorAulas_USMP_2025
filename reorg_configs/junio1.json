@@ -1,0 +1,1088 @@
+{
+  "movimientos": [
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "08:46",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015789",
+        "DATO2": "090266>ET021",
+        "CAPACIDADREQ": 35,
+        "CAPACIDADMAXIMA": 35,
+        "NOMBRE_CURSO": "090266-(TEO)ET021>RESIST. DE MATERIALES II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "SÁNCHEZ DÍAZ, ELVER"
+      },
+      "aula_sugerida": [
+        "2106104",
+        "AULA 104-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "11:01",
+        "HORAFIN": "12:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015790",
+        "DATO2": "090266>EP021",
+        "CAPACIDADREQ": 35,
+        "CAPACIDADMAXIMA": 35,
+        "NOMBRE_CURSO": "090266-(PRA)EP021>RESIST. DE MATERIALES II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "SÁNCHEZ DÍAZ, ELVER"
+      },
+      "aula_sugerida": [
+        "2106102",
+        "AULA 102-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "14:01",
+        "HORAFIN": "15:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011878",
+        "DATO2": "120037>ET021",
+        "CAPACIDADREQ": 24,
+        "CAPACIDADMAXIMA": 24,
+        "NOMBRE_CURSO": "120037-(TEO)ET021>MEDICINA ESTOMATOLÓGICA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106102",
+        "AULA 102-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "15:31",
+        "HORAFIN": "18:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011879",
+        "DATO2": "120037>EP021",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120037-(PRA)EP021>MEDICINA ESTOMATOLÓGICA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106111",
+        "AULA 111-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "18:31",
+        "HORAFIN": "21:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011880",
+        "DATO2": "120037>EP022",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120037-(PRA)EP022>MEDICINA ESTOMATOLÓGICA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "09:31",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015686",
+        "DATO2": "090256>ET021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090256-(TEO)ET021>DINAMICA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "MENDOZA CARLOS, JUAN CARLOS"
+      },
+      "aula_sugerida": [
+        "2106110",
+        "AULA 110-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "11:01",
+        "HORAFIN": "12:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015688",
+        "DATO2": "090256>EP021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090256-(PRA)EP021>DINAMICA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "MENDOZA CARLOS, JUAN CARLOS"
+      },
+      "aula_sugerida": [
+        "2106110",
+        "AULA 110-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "14:01",
+        "HORAFIN": "14:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70012137",
+        "DATO2": "120341>ET021",
+        "CAPACIDADREQ": 20,
+        "CAPACIDADMAXIMA": 20,
+        "NOMBRE_CURSO": "120341-(TEO)ET021>ODONTOPEDIATRÍA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "DIAZ SALES, MELISSA ANDREA"
+      },
+      "aula_sugerida": [
+        "2101101",
+        "AULA 101-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "15:31",
+        "HORAFIN": "17:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70012387",
+        "DATO2": "120021>ET021",
+        "CAPACIDADREQ": 36,
+        "CAPACIDADMAXIMA": 36,
+        "NOMBRE_CURSO": "120021-(TEO)ET021>HISTOLOGÍA Y EMBRIOLOGÍA GENERAL Y APLIC",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "CASTILLO CORNOCK, TANIA BELU"
+      },
+      "aula_sugerida": null
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "07:16",
+        "HORAFIN": "08:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011872",
+        "DATO2": "120036>ET021",
+        "CAPACIDADREQ": 24,
+        "CAPACIDADMAXIMA": 24,
+        "NOMBRE_CURSO": "120036-(TEO)ET021>MEDICINA ESTOMATOLÓGICA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106105",
+        "AULA 105-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "08:46",
+        "HORAFIN": "11:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011873",
+        "DATO2": "120036>EP021",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120036-(PRA)EP021>MEDICINA ESTOMATOLÓGICA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106109",
+        "AULA 109-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "11:46",
+        "HORAFIN": "14:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011874",
+        "DATO2": "120036>EP022",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120036-(PRA)EP022>MEDICINA ESTOMATOLÓGICA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106103",
+        "AULA 103-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "14:46",
+        "HORAFIN": "17:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015584",
+        "DATO2": "033185>ET021",
+        "CAPACIDADREQ": 40,
+        "CAPACIDADMAXIMA": 40,
+        "NOMBRE_CURSO": "033185-(PRA)ET021>PRÁCTICAS PRE PROFES. I",
+        "NOMBRE_PROGRAMA": "PRG.PSICOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "CHERRES GAMBOA, NOELIA GASDALY"
+      },
+      "aula_sugerida": null
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "09:31",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015974",
+        "DATO2": "101430>ET023",
+        "CAPACIDADREQ": 36,
+        "CAPACIDADMAXIMA": 36,
+        "NOMBRE_CURSO": "101430-(TEO)ET023>INT.QUIMICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "QUIÑONES CHAPOÑAN, LILIANA"
+      },
+      "aula_sugerida": [
+        "2106104",
+        "AULA 104-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "11:01",
+        "HORAFIN": "12:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015975",
+        "DATO2": "101430>EP023",
+        "CAPACIDADREQ": 36,
+        "CAPACIDADMAXIMA": 36,
+        "NOMBRE_CURSO": "101430-(PRA)EP023>INT.QUIMICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "QUIÑONES CHAPOÑAN, LILIANA"
+      },
+      "aula_sugerida": [
+        "2101102",
+        "AULA 102-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "14:46",
+        "HORAFIN": "15:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011893",
+        "DATO2": "120072>ET021",
+        "CAPACIDADREQ": 24,
+        "CAPACIDADMAXIMA": 24,
+        "NOMBRE_CURSO": "120072-(TEO)ET021>SALUD Y  ESTOMATOLOGÍA PREVENTIVA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "GONZÁLEZ VERA, ELOY GUSTAVO"
+      },
+      "aula_sugerida": [
+        "2101103",
+        "AULA 103-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "15:31",
+        "HORAFIN": "18:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011894",
+        "DATO2": "120072>EP021",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120072-(PRA)EP021>SALUD Y  ESTOMATOLOGÍA PREVENTIVA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "GONZÁLEZ VERA, ELOY GUSTAVO"
+      },
+      "aula_sugerida": [
+        "2106202",
+        "AULA 202-EDIF. A-CAMPUS -PAB. A-PISO 2",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "18:31",
+        "HORAFIN": "21:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011895",
+        "DATO2": "120072>EP022",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120072-(PRA)EP022>SALUD Y  ESTOMATOLOGÍA PREVENTIVA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "GONZÁLEZ VERA, ELOY GUSTAVO"
+      },
+      "aula_sugerida": [
+        "2101102",
+        "AULA 102-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "07:16",
+        "HORAFIN": "08:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011898",
+        "DATO2": "120050>ET021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "120050-(TEO)ET021>PERIODONCIA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "MUÑANTE REYES, MARÍA LUISA"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "08:46",
+        "HORAFIN": "09:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015940",
+        "DATO2": "090667>ET021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090667-(TEO)ET021>LIDERAZGO Y ORATORIA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "ALARCÓN DÍAZ, DAYSI SOLEDAD"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "09:31",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015941",
+        "DATO2": "090667>EP021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090667-(TEO)EP021>LIDERAZGO Y ORATORIA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "ALARCÓN DÍAZ, DAYSI SOLEDAD"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "17:46",
+        "HORAFIN": "19:15",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70016457",
+        "DATO2": "102119>ET023",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "102119-(TEO)ET023>BIOESTADISTICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": null
+      },
+      "aula_sugerida": [
+        "2101101",
+        "AULA 101-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "19:16",
+        "HORAFIN": "20:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70016458",
+        "DATO2": "102119>ES026",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "102119-(SEM)ES026>BIOESTADÍSTICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": null
+      },
+      "aula_sugerida": [
+        "2101101",
+        "AULA 101-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "VI",
+        "HORAINICIO": "08:01",
+        "HORAFIN": "10:15",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015770",
+        "DATO2": "090286>ET021",
+        "CAPACIDADREQ": 40,
+        "CAPACIDADMAXIMA": 40,
+        "NOMBRE_CURSO": "090286-(TEO)ET021>CONCRETO ARMADO  II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RAMOS BRAST, CARLOS EDUARDO"
+      },
+      "aula_sugerida": [
+        "2106204",
+        "AULA 204-EDIF. A-CAMPUS -PAB. A-PISO 2",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "VI",
+        "HORAINICIO": "10:16",
+        "HORAFIN": "11:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015771",
+        "DATO2": "090286>EP021",
+        "CAPACIDADREQ": 40,
+        "CAPACIDADMAXIMA": 40,
+        "NOMBRE_CURSO": "090286-(PRA)EP021>CONCRETO ARMADO  II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RAMOS BRAST, CARLOS EDUARDO"
+      },
+      "aula_sugerida": [
+        "2106102",
+        "AULA 102-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "VI",
+        "HORAINICIO": "14:46",
+        "HORAFIN": "17:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015278",
+        "DATO2": "106212>EP022",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "106212-(PRA)EP022>EMERGENCIAS MÉDICAS Y TOXICOLÓGICAS",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "CHAVESTA PUICON, CINDY LOURDES"
+      },
+      "aula_sugerida": [
+        "2101207",
+        "AULA 207-EDIF. B-CAMPUS -PAB. B-PISO 2",
+        60
+      ]
+    }
+  ],
+  "aulas_liberadas": [
+    "2100104",
+    "2101104"
+  ],
+  "sugerencias": [
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "08:46",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015789",
+        "DATO2": "090266>ET021",
+        "CAPACIDADREQ": 35,
+        "CAPACIDADMAXIMA": 35,
+        "NOMBRE_CURSO": "090266-(TEO)ET021>RESIST. DE MATERIALES II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "SÁNCHEZ DÍAZ, ELVER"
+      },
+      "aula_sugerida": [
+        "2106104",
+        "AULA 104-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "11:01",
+        "HORAFIN": "12:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015790",
+        "DATO2": "090266>EP021",
+        "CAPACIDADREQ": 35,
+        "CAPACIDADMAXIMA": 35,
+        "NOMBRE_CURSO": "090266-(PRA)EP021>RESIST. DE MATERIALES II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "SÁNCHEZ DÍAZ, ELVER"
+      },
+      "aula_sugerida": [
+        "2106102",
+        "AULA 102-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "14:01",
+        "HORAFIN": "15:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011878",
+        "DATO2": "120037>ET021",
+        "CAPACIDADREQ": 24,
+        "CAPACIDADMAXIMA": 24,
+        "NOMBRE_CURSO": "120037-(TEO)ET021>MEDICINA ESTOMATOLÓGICA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106102",
+        "AULA 102-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "15:31",
+        "HORAFIN": "18:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011879",
+        "DATO2": "120037>EP021",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120037-(PRA)EP021>MEDICINA ESTOMATOLÓGICA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106111",
+        "AULA 111-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "JU",
+        "HORAINICIO": "18:31",
+        "HORAFIN": "21:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011880",
+        "DATO2": "120037>EP022",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120037-(PRA)EP022>MEDICINA ESTOMATOLÓGICA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "09:31",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015686",
+        "DATO2": "090256>ET021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090256-(TEO)ET021>DINAMICA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "MENDOZA CARLOS, JUAN CARLOS"
+      },
+      "aula_sugerida": [
+        "2106110",
+        "AULA 110-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "11:01",
+        "HORAFIN": "12:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015688",
+        "DATO2": "090256>EP021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090256-(PRA)EP021>DINAMICA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "MENDOZA CARLOS, JUAN CARLOS"
+      },
+      "aula_sugerida": [
+        "2106110",
+        "AULA 110-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "14:01",
+        "HORAFIN": "14:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70012137",
+        "DATO2": "120341>ET021",
+        "CAPACIDADREQ": 20,
+        "CAPACIDADMAXIMA": 20,
+        "NOMBRE_CURSO": "120341-(TEO)ET021>ODONTOPEDIATRÍA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "DIAZ SALES, MELISSA ANDREA"
+      },
+      "aula_sugerida": [
+        "2101101",
+        "AULA 101-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "LU",
+        "HORAINICIO": "15:31",
+        "HORAFIN": "17:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70012387",
+        "DATO2": "120021>ET021",
+        "CAPACIDADREQ": 36,
+        "CAPACIDADMAXIMA": 36,
+        "NOMBRE_CURSO": "120021-(TEO)ET021>HISTOLOGÍA Y EMBRIOLOGÍA GENERAL Y APLIC",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "CASTILLO CORNOCK, TANIA BELU"
+      },
+      "aula_sugerida": null
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "07:16",
+        "HORAFIN": "08:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011872",
+        "DATO2": "120036>ET021",
+        "CAPACIDADREQ": 24,
+        "CAPACIDADMAXIMA": 24,
+        "NOMBRE_CURSO": "120036-(TEO)ET021>MEDICINA ESTOMATOLÓGICA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106105",
+        "AULA 105-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "08:46",
+        "HORAFIN": "11:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011873",
+        "DATO2": "120036>EP021",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120036-(PRA)EP021>MEDICINA ESTOMATOLÓGICA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106109",
+        "AULA 109-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "11:46",
+        "HORAFIN": "14:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011874",
+        "DATO2": "120036>EP022",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120036-(PRA)EP022>MEDICINA ESTOMATOLÓGICA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RIOS MORANTE, LUIS ENRIQUE"
+      },
+      "aula_sugerida": [
+        "2106103",
+        "AULA 103-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MA",
+        "HORAINICIO": "14:46",
+        "HORAFIN": "17:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015584",
+        "DATO2": "033185>ET021",
+        "CAPACIDADREQ": 40,
+        "CAPACIDADMAXIMA": 40,
+        "NOMBRE_CURSO": "033185-(PRA)ET021>PRÁCTICAS PRE PROFES. I",
+        "NOMBRE_PROGRAMA": "PRG.PSICOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "CHERRES GAMBOA, NOELIA GASDALY"
+      },
+      "aula_sugerida": null
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "09:31",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015974",
+        "DATO2": "101430>ET023",
+        "CAPACIDADREQ": 36,
+        "CAPACIDADMAXIMA": 36,
+        "NOMBRE_CURSO": "101430-(TEO)ET023>INT.QUIMICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "QUIÑONES CHAPOÑAN, LILIANA"
+      },
+      "aula_sugerida": [
+        "2106104",
+        "AULA 104-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "11:01",
+        "HORAFIN": "12:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015975",
+        "DATO2": "101430>EP023",
+        "CAPACIDADREQ": 36,
+        "CAPACIDADMAXIMA": 36,
+        "NOMBRE_CURSO": "101430-(PRA)EP023>INT.QUIMICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "QUIÑONES CHAPOÑAN, LILIANA"
+      },
+      "aula_sugerida": [
+        "2101102",
+        "AULA 102-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "14:46",
+        "HORAFIN": "15:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011893",
+        "DATO2": "120072>ET021",
+        "CAPACIDADREQ": 24,
+        "CAPACIDADMAXIMA": 24,
+        "NOMBRE_CURSO": "120072-(TEO)ET021>SALUD Y  ESTOMATOLOGÍA PREVENTIVA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "GONZÁLEZ VERA, ELOY GUSTAVO"
+      },
+      "aula_sugerida": [
+        "2101103",
+        "AULA 103-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "15:31",
+        "HORAFIN": "18:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011894",
+        "DATO2": "120072>EP021",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120072-(PRA)EP021>SALUD Y  ESTOMATOLOGÍA PREVENTIVA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "GONZÁLEZ VERA, ELOY GUSTAVO"
+      },
+      "aula_sugerida": [
+        "2106202",
+        "AULA 202-EDIF. A-CAMPUS -PAB. A-PISO 2",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "MI",
+        "HORAINICIO": "18:31",
+        "HORAFIN": "21:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011895",
+        "DATO2": "120072>EP022",
+        "CAPACIDADREQ": 12,
+        "CAPACIDADMAXIMA": 12,
+        "NOMBRE_CURSO": "120072-(PRA)EP022>SALUD Y  ESTOMATOLOGÍA PREVENTIVA II",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "GONZÁLEZ VERA, ELOY GUSTAVO"
+      },
+      "aula_sugerida": [
+        "2101102",
+        "AULA 102-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "07:16",
+        "HORAFIN": "08:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70011898",
+        "DATO2": "120050>ET021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "120050-(TEO)ET021>PERIODONCIA I",
+        "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "MUÑANTE REYES, MARÍA LUISA"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "08:46",
+        "HORAFIN": "09:30",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015940",
+        "DATO2": "090667>ET021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090667-(TEO)ET021>LIDERAZGO Y ORATORIA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "ALARCÓN DÍAZ, DAYSI SOLEDAD"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "09:31",
+        "HORAFIN": "11:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015941",
+        "DATO2": "090667>EP021",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "090667-(TEO)EP021>LIDERAZGO Y ORATORIA",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "ALARCÓN DÍAZ, DAYSI SOLEDAD"
+      },
+      "aula_sugerida": [
+        "2106108",
+        "AULA 108-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        30
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "17:46",
+        "HORAFIN": "19:15",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70016457",
+        "DATO2": "102119>ET023",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "102119-(TEO)ET023>BIOESTADISTICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": null
+      },
+      "aula_sugerida": [
+        "2101101",
+        "AULA 101-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "SA",
+        "HORAINICIO": "19:16",
+        "HORAFIN": "20:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70016458",
+        "DATO2": "102119>ES026",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "102119-(SEM)ES026>BIOESTADÍSTICA",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": null
+      },
+      "aula_sugerida": [
+        "2101101",
+        "AULA 101-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "VI",
+        "HORAINICIO": "08:01",
+        "HORAFIN": "10:15",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015770",
+        "DATO2": "090286>ET021",
+        "CAPACIDADREQ": 40,
+        "CAPACIDADMAXIMA": 40,
+        "NOMBRE_CURSO": "090286-(TEO)ET021>CONCRETO ARMADO  II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RAMOS BRAST, CARLOS EDUARDO"
+      },
+      "aula_sugerida": [
+        "2106204",
+        "AULA 204-EDIF. A-CAMPUS -PAB. A-PISO 2",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "VI",
+        "HORAINICIO": "10:16",
+        "HORAFIN": "11:45",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015771",
+        "DATO2": "090286>EP021",
+        "CAPACIDADREQ": 40,
+        "CAPACIDADMAXIMA": 40,
+        "NOMBRE_CURSO": "090286-(PRA)EP021>CONCRETO ARMADO  II",
+        "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+        "NOMBRE_DOCENTE": "RAMOS BRAST, CARLOS EDUARDO"
+      },
+      "aula_sugerida": [
+        "2106102",
+        "AULA 102-EDIF. A-CAMPUS -PAB. A-PISO 1",
+        60
+      ]
+    },
+    {
+      "aula_origen": "2101104",
+      "oferta": {
+        "CODIGODIA": "VI",
+        "HORAINICIO": "14:46",
+        "HORAFIN": "17:00",
+        "ORIGEN": "OFERTA",
+        "DATO1": "70015278",
+        "DATO2": "106212>EP022",
+        "CAPACIDADREQ": 30,
+        "CAPACIDADMAXIMA": 30,
+        "NOMBRE_CURSO": "106212-(PRA)EP022>EMERGENCIAS MÉDICAS Y TOXICOLÓGICAS",
+        "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+        "NOMBRE_DOCENTE": "CHAVESTA PUICON, CINDY LOURDES"
+      },
+      "aula_sugerida": [
+        "2101101",
+        "AULA 101-EDIF. B-CAMPUS -PAB. B-PISO 1",
+        60
+      ]
+    }
+  ],
+  "aprobados": [],
+  "rechazados": []
+}
