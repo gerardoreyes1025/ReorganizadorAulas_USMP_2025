@@ -1,5 +1,5 @@
 from src.db.connection import create_connection
-from src.db.queries import get_ocupaciones_aula
+from src.db.queries import get_aula_libre
 from src.logic.aula_logic import AulaLogic
 from src.priorizador import Priorizador
 import csv
@@ -17,7 +17,7 @@ class EvaluadorMovimientos:
         print(f"\n=== EVALUANDO MOVIMIENTOS PARA AULA {codigo_aula_origen} ===")
         
         # 1. Obtener ocupaciones del aula origen
-        ocupaciones_origen = get_ocupaciones_aula(self.connection, codigo_aula_origen, ano, semestre)
+        ocupaciones_origen = get_aula_libre(self.connection, codigo_aula_origen, ano, semestre)
         if not ocupaciones_origen:
             print(f"No hay ocupaciones para el aula {codigo_aula_origen}")
             return []

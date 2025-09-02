@@ -1,5 +1,5 @@
 from src.db.connection import create_connection
-from src.db.queries import get_ocupaciones_aula
+from src.db.queries import get_aula_libre
 import csv
 
 class Priorizador:
@@ -114,7 +114,7 @@ def probar_priorizador():
     priorizador = Priorizador(connection)
     
     # Obtener ocupaciones de un aula de ejemplo
-    ocupaciones = get_ocupaciones_aula(connection, '2101105', '2025', '2')
+    ocupaciones = get_aula_libre(connection, '2101105', '2025', '2')
     
     # Establecer priorización por defecto
     priorizador.establecer_priorizacion_por_defecto(ocupaciones)
