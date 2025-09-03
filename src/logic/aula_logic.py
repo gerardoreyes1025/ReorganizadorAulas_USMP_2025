@@ -56,3 +56,6 @@ class AulaLogic:
 
         libres_ordenados = dict(sorted(libres.items(), key=lambda x: (x[0][1], x[0][0])))
         return libres_ordenados
+    
+    def get_aula_ocupada(self, campus_code, pabellon_codes, ano='2025', semestre='2'):
+        return get_aula_ocupada(self.connection, campus_code, pabellon_codes, ano, semestre)

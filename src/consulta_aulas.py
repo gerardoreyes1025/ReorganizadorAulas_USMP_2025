@@ -101,11 +101,11 @@ if __name__ == "__main__":
     consultar_aulas_libres(
         connection,
         dia='MA',
-        hora_inicio='17:01',
-        hora_fin='19:15',
+        hora_inicio='20:01',
+        hora_fin='22:15',
         campus_code=14,
         pabellon_codes=[3, 4],  # Solo pabellones 3 y 4
-        capacidad_minima=60,    # Mínimo 30 estudiantes
+        capacidad_minima=30,    # Mínimo 30 estudiantes
         output_csv='consulta_aulas.csv'
     )
     connection.close()

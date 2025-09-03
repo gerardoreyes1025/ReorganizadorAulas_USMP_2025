@@ -1,0 +1,997 @@
+{
+  "tipo": "reorganizacion_multiple",
+  "fecha_generacion": "2025-09-02T16:10:43.137516",
+  "configuracion": {
+    "campus_code": 14,
+    "pabellon_codes": [
+      3,
+      4
+    ],
+    "ano": "2025",
+    "semestre": "2",
+    "archivo_priorizacion": null
+  },
+  "aulas_procesadas": 2,
+  "resultados": [
+    {
+      "aula_origen": "2101101",
+      "exito": true,
+      "error": "",
+      "solucion": {
+        "aula_origen": "2101101",
+        "fecha_generacion": "2025-09-02T16:10:34.065323",
+        "configuracion": {
+          "campus_code": 14,
+          "pabellon_codes": [
+            3,
+            4
+          ],
+          "ano": "2025",
+          "semestre": "2",
+          "archivo_priorizacion": null
+        },
+        "plan_movimientos": {
+          "movimientos": [
+            {
+              "ocupacion": {
+                "CODIGODIA": "MA",
+                "HORAINICIO": "18:31",
+                "HORAFIN": "21:30",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32402363",
+                "DATO2": "033186>ET023",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "033186-(PRA)ET023>PRÁCTICAS PRE PROF.  II",
+                "NOMBRE_PROGRAMA": "PRG.PSICOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": "DOMINGUEZ CASTAÑEDA, DANIELA DEL CARMEN"
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106106",
+                "nombre": "AULA 106-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MA",
+                  "inicio": "12:30",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "JU",
+                "HORAINICIO": "17:01",
+                "HORAFIN": "20:00",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32398817",
+                "DATO2": "033766>EP021",
+                "CAPACIDADREQ": 21,
+                "CAPACIDADMAXIMA": 21,
+                "NOMBRE_CURSO": "033766-(PRA)EP021>SEMINARIO DE TESIS",
+                "NOMBRE_PROGRAMA": "PRG.PSICOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": "SUÁREZ LUNA, JULIO CÉSAR"
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106107",
+                "nombre": "AULA 107-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "JU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "VI",
+                "HORAINICIO": "17:01",
+                "HORAFIN": "20:00",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32398818",
+                "DATO2": "033766>EP022",
+                "CAPACIDADREQ": 15,
+                "CAPACIDADMAXIMA": 15,
+                "NOMBRE_CURSO": "033766-(PRA)EP022>SEMINARIO DE TESIS",
+                "NOMBRE_PROGRAMA": "PRG.PSICOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": "SUÁREZ LUNA, JULIO CÉSAR"
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106107",
+                "nombre": "AULA 107-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 90,
+                "bloque_libre": {
+                  "dia": "VI",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 90
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MA",
+                "HORAINICIO": "16:16",
+                "HORAFIN": "17:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32406298",
+                "DATO2": "101519>ES026",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "101519-(SEM)ES026>QUIMICA APLIC.A LAS CIENCIAS DE LA SALUD",
+                "NOMBRE_PROGRAMA": null,
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106105",
+                "nombre": "AULA 105-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MA",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MI",
+                "HORAINICIO": "14:46",
+                "HORAFIN": "17:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397256",
+                "DATO2": "128514>EP022",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "128514-(PRA)EP022>TRABAJO DE INVESTIGACIÓN",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106106",
+                "nombre": "AULA 106-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MI",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "SA",
+                "HORAINICIO": "14:46",
+                "HORAFIN": "16:15",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32395438",
+                "DATO2": "090268>EP021",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090268-(PRA)EP021>TECNOLOGIA DEL CONCRETO",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "SA",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MI",
+                "HORAINICIO": "14:01",
+                "HORAFIN": "14:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397255",
+                "DATO2": "128514>ET022",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "128514-(TEO)ET022>TRABAJO DE INVESTIGACIÓN",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106105",
+                "nombre": "AULA 105-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MI",
+                  "inicio": "07:00",
+                  "fin": "16:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "JU",
+                "HORAINICIO": "13:16",
+                "HORAFIN": "14:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32406312",
+                "DATO2": "101519>ET025",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "101519-(TEO)ET025>QUIMICA APLIC.A LAS CIENCIAS DE LA SALUD",
+                "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "JU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "JU",
+                "HORAINICIO": "13:16",
+                "HORAFIN": "14:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32406312",
+                "DATO2": "101519>ET025",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "101519-(TEO)ET025>QUIMICA APLIC.A LAS CIENCIAS DE LA SALUD",
+                "NOMBRE_PROGRAMA": "PRG.MEDICINA HUMANA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "JU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "SA",
+                "HORAINICIO": "13:16",
+                "HORAFIN": "14:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32395437",
+                "DATO2": "090268>ET021",
+                "CAPACIDADREQ": 30,
+                "CAPACIDADMAXIMA": 30,
+                "NOMBRE_CURSO": "090268-(TEO)ET021>TECNOLOGIA DEL CONCRETO",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106105",
+                "nombre": "AULA 105-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "SA",
+                  "inicio": "13:15",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "JU",
+                "HORAINICIO": "11:46",
+                "HORAFIN": "13:15",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32386659",
+                "DATO2": "099905>ET022",
+                "CAPACIDADREQ": 60,
+                "CAPACIDADMAXIMA": 60,
+                "NOMBRE_CURSO": "099905-(PRA)ET022>ACCESIBILIDAD Y DISEÑO UNIVERSAL",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "JU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MA",
+                "HORAINICIO": "11:01",
+                "HORAFIN": "12:30",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32394482",
+                "DATO2": "090662>EP022",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090662-(PRA)EP022>INTRO. INGENIERIA",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MA",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MI",
+                "HORAINICIO": "11:01",
+                "HORAFIN": "12:30",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404983",
+                "DATO2": "090663>ET021",
+                "CAPACIDADREQ": 60,
+                "CAPACIDADMAXIMA": 60,
+                "NOMBRE_CURSO": "090663-(TEO)ET021>GEOMETRIA ANALITICA",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MI",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "VI",
+                "HORAINICIO": "11:01",
+                "HORAFIN": "12:30",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404978",
+                "DATO2": "099906>EP021",
+                "CAPACIDADREQ": 30,
+                "CAPACIDADMAXIMA": 30,
+                "NOMBRE_CURSO": "099906-(PRA)EP021>CIUDADANÍA INTERCULTURAL",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106105",
+                "nombre": "AULA 105-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "VI",
+                  "inicio": "07:00",
+                  "fin": "16:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "JU",
+                "HORAINICIO": "10:16",
+                "HORAFIN": "11:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404992",
+                "DATO2": "090668>EP021",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090668-(PRA)EP021>MATEMATICA DISCRETA",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "JU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "LU",
+                "HORAINICIO": "10:16",
+                "HORAFIN": "13:15",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397254",
+                "DATO2": "128514>EP021",
+                "CAPACIDADREQ": 10,
+                "CAPACIDADMAXIMA": 10,
+                "NOMBRE_CURSO": "128514-(PRA)EP021>TRABAJO DE INVESTIGACIÓN",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 80,
+                "bloque_libre": {
+                  "dia": "LU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 80
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MA",
+                "HORAINICIO": "10:16",
+                "HORAFIN": "11:00",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32394481",
+                "DATO2": "090662>ET022",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090662-(TEO)ET022>INTRO. INGENIERIA",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA CIVIL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MA",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "VI",
+                "HORAINICIO": "10:16",
+                "HORAFIN": "11:00",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404976",
+                "DATO2": "099906>ET021",
+                "CAPACIDADREQ": 30,
+                "CAPACIDADMAXIMA": 30,
+                "NOMBRE_CURSO": "099906-(TEO)ET021>CIUDADANÍA INTERCULTURAL",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106105",
+                "nombre": "AULA 105-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "VI",
+                  "inicio": "07:00",
+                  "fin": "16:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "LU",
+                "HORAINICIO": "09:31",
+                "HORAFIN": "10:15",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397253",
+                "DATO2": "128514>ET021",
+                "CAPACIDADREQ": 10,
+                "CAPACIDADMAXIMA": 10,
+                "NOMBRE_CURSO": "128514-(TEO)ET021>TRABAJO DE INVESTIGACIÓN",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 80,
+                "bloque_libre": {
+                  "dia": "LU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 80
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "JU",
+                "HORAINICIO": "08:46",
+                "HORAFIN": "10:15",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404984",
+                "DATO2": "090663>EP021",
+                "CAPACIDADREQ": 60,
+                "CAPACIDADMAXIMA": 60,
+                "NOMBRE_CURSO": "090663-(PRA)EP021>GEOMETRIA ANALITICA",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "JU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MA",
+                "HORAINICIO": "08:46",
+                "HORAFIN": "10:15",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404988",
+                "DATO2": "090002>EP021",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090002-(PRA)EP021>LENGUAJE",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MA",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "SA",
+                "HORAINICIO": "08:46",
+                "HORAFIN": "11:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397318",
+                "DATO2": "120082>EP022",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "120082-(PRA)EP022>SEMINARIO DE TESIS",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106107",
+                "nombre": "AULA 107-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "SA",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "SA",
+                "HORAINICIO": "08:46",
+                "HORAFIN": "11:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397318",
+                "DATO2": "120082>EP022",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "120082-(PRA)EP022>SEMINARIO DE TESIS",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106107",
+                "nombre": "AULA 107-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "SA",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "VI",
+                "HORAINICIO": "08:46",
+                "HORAFIN": "10:15",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404994",
+                "DATO2": "090710>EP021",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090710-(PRA)EP021>METODOS DE ESTUDIO",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "VI",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "JU",
+                "HORAINICIO": "08:01",
+                "HORAFIN": "08:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404983",
+                "DATO2": "090663>ET021",
+                "CAPACIDADREQ": 60,
+                "CAPACIDADMAXIMA": 60,
+                "NOMBRE_CURSO": "090663-(TEO)ET021>GEOMETRIA ANALITICA",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "JU",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MA",
+                "HORAINICIO": "08:01",
+                "HORAFIN": "08:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404986",
+                "DATO2": "090002>ET021",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090002-(TEO)ET021>LENGUAJE",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MA",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "MI",
+                "HORAINICIO": "08:01",
+                "HORAFIN": "11:00",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404989",
+                "DATO2": "090668>ET021",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090668-(TEO)ET021>MATEMATICA DISCRETA",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "MI",
+                  "inicio": "07:00",
+                  "fin": "19:16"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "SA",
+                "HORAINICIO": "08:01",
+                "HORAFIN": "08:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397317",
+                "DATO2": "120082>ET022",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "120082-(TEO)ET022>SEMINARIO DE TESIS",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106107",
+                "nombre": "AULA 107-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "SA",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "SA",
+                "HORAINICIO": "08:01",
+                "HORAFIN": "08:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32397317",
+                "DATO2": "120082>ET022",
+                "CAPACIDADREQ": 20,
+                "CAPACIDADMAXIMA": 20,
+                "NOMBRE_CURSO": "120082-(TEO)ET022>SEMINARIO DE TESIS",
+                "NOMBRE_PROGRAMA": "PRG.ODONTOLOGÍA F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106107",
+                "nombre": "AULA 107-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 30,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "SA",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            },
+            {
+              "ocupacion": {
+                "CODIGODIA": "VI",
+                "HORAINICIO": "08:01",
+                "HORAFIN": "08:45",
+                "ORIGEN": "OFERTA",
+                "DATO1": "32404993",
+                "DATO2": "090710>ET021",
+                "CAPACIDADREQ": 40,
+                "CAPACIDADMAXIMA": 40,
+                "NOMBRE_CURSO": "090710-(TEO)ET021>METODOS DE ESTUDIO",
+                "NOMBRE_PROGRAMA": "PRG.INGENIERÍA INDUSTRIAL F.CHICLAYO",
+                "NOMBRE_DOCENTE": null
+              },
+              "prioridad": {
+                "tier": 1,
+                "peso": 4,
+                "nombre_curso": ""
+              },
+              "aula_destino": {
+                "codigo": "2106101",
+                "nombre": "AULA 101-EDIF. A-CAMPUS -PAB. A-PISO 1",
+                "capacidad": 60,
+                "score": 100,
+                "bloque_libre": {
+                  "dia": "VI",
+                  "inicio": "07:00",
+                  "fin": "23:00"
+                }
+              },
+              "score": 100
+            }
+          ],
+          "conflictos": [],
+          "aulas_utilizadas": 
