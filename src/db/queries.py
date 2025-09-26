@@ -1,5 +1,3 @@
-
-##En realidad esto muestra las aulas libres
 def get_aula_libre(connection, codigo_aula, ano='2025', semestre='2'):
     query = f"""
     SELECT 
@@ -78,9 +76,7 @@ def get_aula_libre(connection, codigo_aula, ano='2025', semestre='2'):
 
 
 
-
-##Esto si saca aulas ocupadas xd
-def get_aula_ocupada(connection, campus_code, pabellon_codes, ano='2025', semestre='2'):
+def get_aula_ocupadasas(connection, campus_code, pabellon_codes, ano='2025', semestre='2'):
     pabellon_placeholders = ','.join(['%s'] * len(pabellon_codes))
     query = f"""
     SELECT 
