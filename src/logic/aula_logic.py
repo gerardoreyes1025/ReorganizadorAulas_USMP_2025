@@ -1,4 +1,5 @@
-from src.db.queries import get_aula_ocupada
+from src.db.queries import get_aula_ocupadasas
+from src.db.queries import get_aula_libre
 
 def parse_bloques(bloques_str):
     bloques = []
@@ -25,7 +26,7 @@ class AulaLogic:
         self.connection = connection
 
     def fetch_libres(self, campus_code, pabellon_codes, ano='2025', semestre='2'):
-        aulas = get_aula_ocupada(self.connection, campus_code, pabellon_codes, ano, semestre)
+        aulas = get_aula_ocupadasas(self.connection, campus_code, pabellon_codes, ano, semestre)
         dias = ['LU', 'MA', 'MI', 'JU', 'VI', 'SA', 'DO']
         hora_inicio_jornada = '07:00'
         hora_fin_jornada = '23:00'
@@ -57,5 +58,5 @@ class AulaLogic:
         libres_ordenados = dict(sorted(libres.items(), key=lambda x: (x[0][1], x[0][0])))
         return libres_ordenados
     
-    def get_aula_ocupada(self, campus_code, pabellon_codes, ano='2025', semestre='2'):
-        return get_aula_ocupada(self.connection, campus_code, pabellon_codes, ano, semestre)
+    def get_aula_libre(self, campus_code, pabellon_codes, ano='2025', semestre='2'):
+        return get_aula_libre(self.connection, campus_code, pabellon_codes, ano, semestre)
