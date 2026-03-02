@@ -2,7 +2,8 @@ import json
 import os
 from src.db.connection import create_connection
 from src.logic.aula_logic import AulaLogic
-from src.aula_ocupada import get_ocupaciones_aula
+# from src.aula_ocupada import get_ocupaciones_aula
+from src.reorganizador.aula_ocupada import get_ocupaciones_aula
 from src.candidatos_para_oferta import asignar_ofertas_sin_cruce
 
 CONFIG_DIR = "reorg_configs"
